@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    min-width: 300px;
+    height: 500px;
+}
+
+#calculatorBody {
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+#output {
+    border: 2px solid black;
+    font-size: 64px;
+    padding: 0 5px;
+}
